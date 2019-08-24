@@ -15,17 +15,17 @@ The Bag of Words can be carried into many spaces. Here is one process - you can 
 * paper
 * tape/glue
 
-### Process:
+### How to Play:
 
 #### Growing the Bag
-*For each participant*
+*For each player*
 1. Choose a language you don't know well (familiar but not native)
 2. Write down words/phrases with translation in a shared language (e.g.:  contigo | with you) 
 3. Cut up the words/phrases
 4. Place in bag
 
 #### Creating the text
-*For each participant*
+*For each player*
 1. Take out a handful from the Bag
 2. Arrange the words and phrases on a surface. Use paper and glue as you like - afix the words to your surroundings if you like. Arrangements can form letters, poems, lyrics, namings, titles.
 
@@ -34,3 +34,6 @@ Exchange arrangements:
   * With a friend
   * With a stranger
   * On [instagram](https://www.instagram.com/thebagofwords/) [@thebagofwords](https://www.instagram.com/thebagofwords/)
+  
+#### Repeat!
+Continue to Grow the Bag with new players.
