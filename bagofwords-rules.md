@@ -13,3 +13,8 @@ The Bag of Words can be carried into many spaces. Here is one process - you can 
 * scissors
 * paper
 * tape/glue
+
+### Process:
+1. Have participants write down words or sentences (preferably in a language they don't know well). Include the translation in a shared language if possible!
+
+2. 
