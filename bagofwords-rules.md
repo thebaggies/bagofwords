@@ -24,7 +24,7 @@ The Bag of Words can be carried into many spaces. Here is one process - you can 
 3. Cut up the words/phrases
 4. Place in bag
 
-#### Creating the text
+#### Arranging the text
 *For each player*
 1. Take out a handful from the Bag
 2. Arrange the words and phrases on a surface. Use paper and glue as you like - afix the words to your surroundings if you like. Arrangements can form letters, poems, lyrics, namings, titles.
